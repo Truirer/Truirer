@@ -4,7 +4,6 @@ I'm a web developer who loves web scraping, debugging and automate repetitive ta
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Truirer)](https://github.com/anuraghazra/github-readme-stats)
 
-[![user:19437053's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/19437053?theme=dark&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
 <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
   <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/19437053?theme=dark&website=true&location=true" alt="user:19437053's SO profile">
