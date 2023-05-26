@@ -1,6 +1,6 @@
 ### Hi there, I'm Berk
 
-I'm a web developer who loves web scraping, debugging and automate repetitive tasks. 
+I'm a web developer who loves web scraping, debugging and automate repetitive tasks. Don't forget to check my [portfolio](https://www.berkemreuzun.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Truirer)](https://github.com/anuraghazra/github-readme-stats)
 
